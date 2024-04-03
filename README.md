@@ -1,6 +1,5 @@
-<center>
-# Sistema de Check-in Web
-</center>
+<h1 align="center">Sistema de Check-in Web<h1>
+<p align="center"><a href="euclaudiofilho.github.io/check-in/">Acessar projeto</a></p>
 
 Este é um sistema de check-in web simples, feito com HTML, CSS e JavaScript. Ele permite que os usuários possam se inscrever e realizar os seus check-in de forma autônoma!
 
